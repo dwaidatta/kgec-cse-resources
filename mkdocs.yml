@@ -1,0 +1,78 @@
+site_name: KGEC CSE Resources
+site_url: https://dwaidatta.github.io/kgec-cse-resources/
+site_description: Unofficial semester-wise study resources for KGEC CSE students.
+
+repo_name: dwaidatta/kgec-cse-resources
+repo_url: https://github.com/dwaidatta/kgec-cse-resources
+
+theme:
+  name: material
+  icon:
+    logo: material/school
+    repo: fontawesome/brands/github
+    previous: fontawesome/solid/arrow-left
+    next: fontawesome/solid/arrow-right
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+  palette:
+    - scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  favicon: assets/favicon.png
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+copyright: >
+  Unofficial student-made resource hub for KGEC CSE, not affiliated with or endorsed by the college.
+
+extra:
+  # generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/dwaidatta
+      name: GitHub
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/dwaidatta
+      name: LinkedIn
+    - icon: fontawesome/solid/globe
+      link: https://dwaidatta.in
+      name: Website
+
+nav:
+  - Home: index.md
+  - Sem 1:
+      - Overview: sem-1/index.md
+  - Sem 2:
+      - Overview: sem-2/index.md
+  - Sem 3:
+      - Overview: sem-3/index.md
+  - Sem 4:
+      - Overview: sem-4/index.md
+  - Sem 5:
+      - Overview: sem-5/index.md
+  - Sem 6:
+      - Overview: sem-6/index.md
+  - Sem 7:
+      - Overview: sem-7/index.md
+  - Sem 8:
+      - Overview: sem-8/index.md
