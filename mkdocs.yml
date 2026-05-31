@@ -43,7 +43,7 @@ markdown_extensions:
       alternate_style: true
 
 copyright: >
-  Unofficial student-made resource hub for KGEC CSE, not affiliated with or endorsed by the college.
+  Not affiliated with or endorsed by the college. Every resource are owned by their respective owners. 
 
 extra:
   # generator: false
@@ -60,19 +60,19 @@ extra:
 
 nav:
   - Home: index.md
-  - Sem 1:
-      - Overview: sem-1/index.md
-  - Sem 2:
-      - Overview: sem-2/index.md
-  - Sem 3:
-      - Overview: sem-3/index.md
-  - Sem 4:
-      - Overview: sem-4/index.md
-  - Sem 5:
-      - Overview: sem-5/index.md
-  - Sem 6:
-      - Overview: sem-6/index.md
-  - Sem 7:
-      - Overview: sem-7/index.md
-  - Sem 8:
-      - Overview: sem-8/index.md
+  - Semester 1:
+      - Overview: semester-1/index.md
+  - Semester 2:
+      - Overview: semester-2/index.md
+  - Semester 3:
+      - Overview: semester-3/index.md
+  - Semester 4:
+      - Overview: semester-4/index.md
+  - Semester 5:
+      - Overview: semester-5/index.md
+  - Semester 6:
+      - Overview: semester-6/index.md
+  - Semester 7:
+      - Overview: semester-7/index.md
+  - Semester 8:
+      - Overview: semester-8/index.md
