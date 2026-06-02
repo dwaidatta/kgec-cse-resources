@@ -43,7 +43,7 @@ markdown_extensions:
       alternate_style: true
 
 copyright: >
-  Not affiliated with or endorsed by the college. Every resource are owned by their respective owners. 
+  This page is not affiliated with or endorsed by the college. Every resource are owned and managed by their respective owners or stakeholders. 
 
 extra:
   # generator: false
@@ -68,7 +68,7 @@ nav:
       - Overview: semester-3/index.md
   - Semester 4:
       - Overview: semester-4/index.md
-      - Biology [BSC-401]: semester-4/bsc-401.md  
+      - Biology (BSC-401): semester-4/bsc-401.md  
   - Semester 5:
       - Overview: semester-5/index.md
   - Semester 6:
