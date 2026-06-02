@@ -1,6 +1,6 @@
 site_name: KGEC CSE Resources
 site_url: https://dwaidatta.github.io/kgec-cse-resources/
-site_description: Unofficial semester-wise study resources for KGEC CSE students.
+site_description: Semester-wise study resources for KGEC CSE students.
 
 repo_name: dwaidatta/kgec-cse-resources
 repo_url: https://github.com/dwaidatta/kgec-cse-resources
@@ -68,7 +68,8 @@ nav:
       - Overview: semester-3/index.md
   - Semester 4:
       - Overview: semester-4/index.md
-      - Biology (BSC-401): semester-4/bsc-401.md  
+      - Design and Analysis of Algorithms (PCC-CS-404): semester-4/PCC-CS-404.md
+      - Biology (BSC-401): semester-4/BSC-401.md  
   - Semester 5:
       - Overview: semester-5/index.md
   - Semester 6:
