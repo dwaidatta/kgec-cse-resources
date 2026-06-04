@@ -1,9 +1,9 @@
-site_name: KGEC CSE Resources
+site_name: MAKAUT CSE Resources
 site_url: https://dwaidatta.github.io/kgec-cse-resources/
-site_description: Semester-wise study resources for KGEC CSE students.
+site_description: Semester-wise study resources for MAKAUT CSE students.
 
-repo_name: dwaidatta/kgec-cse-resources
-repo_url: https://github.com/dwaidatta/kgec-cse-resources
+repo_name: dwaidatta/makaut-cse-resources
+repo_url: https://github.com/dwaidatta/makaut-cse-resources
 
 theme:
   name: material
@@ -43,7 +43,7 @@ markdown_extensions:
       alternate_style: true
 
 copyright: >
-  This page is not affiliated with or endorsed by the college. Every resource are owned and managed by their respective owners or stakeholders. 
+  This repository is an independent student resource. It is NOT affiliated with, endorsed by, or officially maintained by MAKAUT or any college administration.
 
 extra:
   # generator: false
@@ -68,8 +68,12 @@ nav:
       - Overview: semester-3/index.md
   - Semester 4:
       - Overview: semester-4/index.md
+      - Discrete Mathematics (PCC-CS-401): semester-4/PCC-CS-401.md
+      - Computer Architecture (PCC-CS-402): semester-4/PCC-CS-402.md
+      - Formal Language & Automata Theory (PCC-CS-403): semester-4/PCC-CS-403.md
       - Design and Analysis of Algorithms (PCC-CS-404): semester-4/PCC-CS-404.md
       - Biology (BSC-401): semester-4/BSC-401.md  
+      - Environmental Sciences (MC-401): semester-4/MC-401.md  
   - Semester 5:
       - Overview: semester-5/index.md
   - Semester 6:
