@@ -1,12 +1,12 @@
 [project]
 site_name = "KGEC CSE Resources"
 site_url = "https://dwaidatta.github.io/kgec-cse-resources/"
-site_description = "Semester-wise study resources for MAKAUT CSE students."
+site_description = "Semester-wise study resources for KGEC CSE students."
 
 repo_name = "dwaidatta/kgec-cse-resources"
 repo_url = "https://github.com/dwaidatta/kgec-cse-resources"
 
-copyright = "This repository is an independent student resource. It is NOT affiliated with, endorsed by, or officially maintained by MAKAUT or any college administration."
+copyright = "This repository is an independent student resource. It is NOT affiliated with, endorsed by, or officially maintained by KGEC or any college administration."
 
 nav = [
   { "Home" = "index.md" },

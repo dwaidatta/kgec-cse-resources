@@ -1,16 +1,16 @@
 # Welcome
 
-This repository collects semester-wise study resources for MAKAUT B.Tech in Computer Science and Engineering Course. It is designed to help students find relevant study resources for semester exam preparation.
+This repository collects semester-wise study resources for KGEC B.Tech in Computer Science and Engineering Course. It is designed to help students find relevant study resources for semester exam preparation.
 
 ## What you will find here
 
 - Semester overviews for all eight semesters
-- Selected resources for MAKAUT B.Tech CSE subjects
+- Selected resources for KGEC B.Tech CSE subjects
 - Links to notes, reference material, and past papers where available
 - A clean structure for easy navigation by semester and subject
 
 !!! info "Important"
-    This repository is an independent student resource. It is NOT affiliated with, endorsed by, or officially maintained by MAKAUT or any college administration.
+    This repository is an independent student resource. It is NOT affiliated with, endorsed by, or officially maintained by KGEC or any college administration.
 
 !!! tip "Have feedback or missing resources?"
     If you find broken links, missing subjects, or outdated materials, please open an issue on the repository so we can improve the collection.
