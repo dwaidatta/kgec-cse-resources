@@ -1,0 +1,77 @@
+[project]
+site_name = "MAKAUT CSE Resources"
+site_url = "https://dwaidatta.github.io/kgec-cse-resources/"
+site_description = "Semester-wise study resources for MAKAUT CSE students."
+
+repo_name = "dwaidatta/kgec-cse-resources"
+repo_url = "https://github.com/dwaidatta/kgec-cse-resources"
+
+copyright = "This repository is an independent student resource. It is NOT affiliated with, endorsed by, or officially maintained by MAKAUT or any college administration."
+
+nav = [
+  { "Home" = "index.md" },
+  { "Semester 1" = [{ "Overview" = "semester-1/index.md" }] },
+  { "Semester 2" = [{ "Overview" = "semester-2/index.md" }] },
+  { "Semester 3" = [{ "Overview" = "semester-3/index.md" }] },
+  { "Semester 4" = [
+    { "Overview" = "semester-4/index.md" },
+    { "Design and Analysis of Algorithms (PCC-CS-404)" = "semester-4/PCC-CS-404.md" },
+    { "Biology (BSC-401)" = "semester-4/BSC-401.md" },
+  ] },
+  { "Semester 5" = [{ "Overview" = "semester-5/index.md" }] },
+  { "Semester 6" = [{ "Overview" = "semester-6/index.md" }] },
+  { "Semester 7" = [{ "Overview" = "semester-7/index.md" }] },
+  { "Semester 8" = [{ "Overview" = "semester-8/index.md" }] },
+]
+
+[project.theme]
+language = "en"
+features = [
+  "content.tabs.link",
+  "navigation.footer",
+  "navigation.sections",
+  "navigation.tabs",
+  "navigation.top",
+  "search.highlight",
+]
+
+[project.theme.icon]
+logo = "material/school"
+repo = "fontawesome/brands/github"
+previous = "fontawesome/solid/arrow-left"
+next = "fontawesome/solid/arrow-right"
+
+[[project.theme.palette]]
+scheme = "default"
+primary = "blue"
+accent = "blue"
+toggle.icon = "material/brightness-7"
+toggle.name = "Switch to dark mode"
+
+[[project.theme.palette]]
+scheme = "slate"
+primary = "blue"
+accent = "blue"
+toggle.icon = "material/brightness-4"
+toggle.name = "Switch to light mode"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/dwaidatta"
+name = "GitHub"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/linkedin"
+link = "https://www.linkedin.com/in/dwaidatta"
+name = "LinkedIn"
+
+[[project.extra.social]]
+icon = "fontawesome/solid/globe"
+link = "https://dwaidatta.in"
+name = "Website"
+
+[project.markdown_extensions]
+admonition = {}
+pymdownx.details = {}
+pymdownx.superfences = {}
+pymdownx.tabbed.alternate_style = true
