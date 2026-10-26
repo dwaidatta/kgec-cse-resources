@@ -18,7 +18,10 @@ nav = [
     { "Design and Analysis of Algorithms (PCC-CS-404)" = "semester-4/PCC-CS-404.md" },
     { "Biology (BSC-401)" = "semester-4/BSC-401.md" },
   ] },
-  { "Semester 5" = [{ "Overview" = "semester-5/index.md" }] },
+  { "Semester 5" = [
+    { "Overview" = "semester-5/index.md" },
+    { "Object Oriented Programming (PCC-CS-503)" = "semester-5/PCC-CS-503.md" },
+  ] },
   { "Semester 6" = [{ "Overview" = "semester-6/index.md" }] },
   { "Semester 7" = [{ "Overview" = "semester-7/index.md" }] },
   { "Semester 8" = [{ "Overview" = "semester-8/index.md" }] },
@@ -73,5 +76,9 @@ name = "Website"
 [project.markdown_extensions]
 admonition = {}
 pymdownx.details = {}
-pymdownx.superfences = {}
 pymdownx.tabbed.alternate_style = true
+
+[project.markdown_extensions.pymdownx.superfences]
+custom_fences = [
+  { name = "mermaid", class = "mermaid", format = "pymdownx.superfences.fence_code_format" },
+]
