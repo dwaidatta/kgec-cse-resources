@@ -21,6 +21,7 @@ nav = [
   { "Semester 5" = [
     { "Overview" = "semester-5/index.md" },
     { "Object Oriented Programming (PCC-CS-503)" = "semester-5/PCC-CS-503.md" },
+    { "CA-2 Night-Before Practice Paper (PCC-CS-503)" = "semester-5/PCC-CS-503-CA-2-PRACTICE.md" },
   ] },
   { "Semester 6" = [{ "Overview" = "semester-6/index.md" }] },
   { "Semester 7" = [{ "Overview" = "semester-7/index.md" }] },
